@@ -1,0 +1,2 @@
+Project1/Project1/*.vcxproj >> .gitignored
+echo Project1/Project1/*.vcxproj.filters
