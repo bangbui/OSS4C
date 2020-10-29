@@ -13,7 +13,7 @@ int main()
 	cout << "Hieu " << a << " va " << " la " << a - b << endl;
 	cout << "Tich " << a << " va " << " la " << a * b << endl;
 	cout << "Thuong " << a << " va " << " la " << a / b << endl;
-
+	cout << endl;
 	system("pause");
 	return 0;
 }
