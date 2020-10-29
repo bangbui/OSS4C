@@ -260,3 +260,4 @@ paket-files/
 __pycache__/
 *.pycdemo
 Project1/Project1/*.vcxproj
+Project1/Project1/*.vcxproj.filters
